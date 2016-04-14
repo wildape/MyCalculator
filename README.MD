@@ -6,8 +6,6 @@
 Android系统计算器
 
 ![AndroidL0](./androidL0.png)
-
-
 ![AndroidL1](./androidL1.png)
 
 
